@@ -1,0 +1,2 @@
+# Austin Housing Insights
+This Power BI project provides valuable insights for property buyers and brokers in the Austin, Texas area. Utilizing the Austin housing dataset, the project offers a comprehensive analysis of the local real estate market. The interactive dashboard, created in Power BI, is complemented by a visually appealing background designed in PowerPoint, making it easy to navigate and understand the trends and patterns in the Austin housing market.
